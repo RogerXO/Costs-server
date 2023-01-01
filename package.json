@@ -12,6 +12,16 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
-  }
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerXO/fake-Costs-server-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RogerXO/fake-Costs-server-api/issues"
+  },
+  "homepage": "https://github.com/RogerXO/fake-Costs-server-api#readme"
 }
